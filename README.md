@@ -1,5 +1,5 @@
 # EZSCRIPT
-> Windows Hardening made EZ | Ethan Michalak
+> Windows Hardening made EZ | Initally made by Ethan Michalak; Optimized for performance by Brian Vu
 
 ## Set up
 *Open powershell with administrative privileges*
