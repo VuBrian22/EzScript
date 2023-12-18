@@ -12,7 +12,7 @@ function ezBanner(){
                                                           | $$               
                                                           | $$               
                                                            \$$         
-                                                                    BY: Keyboard Cowboys
+                                                                    EPROM-SET
 '                                                           
 }
 
